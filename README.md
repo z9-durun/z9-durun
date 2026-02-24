@@ -34,8 +34,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/z9.durun/z9.durun.github.io/pull/2) in [z9.durun/z9.durun.github.io](https://github.com/z9.durun/z9.durun.github.io)
-2. 🎉 Merged PR [#1](https://github.com/z9.durun/z9.durun.github.io/pull/1) in [z9.durun/z9.durun.github.io](https://github.com/z9.durun/z9.durun.github.io)
+1. 🎉 Merged PR [#2](https://github.com/z9-durun/z9-durun.github.io/pull/2) in [z9-durun/z9-durun.github.io](https://github.com/z9-durun/z9-durun.github.io)
+2. 🎉 Merged PR [#1](https://github.com/z9-durun/z9-durun.github.io/pull/1) in [z9-durun/z9-durun.github.io](https://github.com/z9-durun/z9-durun.github.io)
 
    <!--END_SECTION:activity-->
       </td>
@@ -43,9 +43,9 @@
 
 ### 📚 Blog posts
 
-<!-- BLOG-POST-LIST:START -->- <div>[Storybook 인터랙션 테스트, 함수형으로 설계하기](https://z9.durun.github.io/posts/storybook-interaction-test-automation/)</div>- <div>[Git Repository 이전하기: 커밋 히스토리 유지와 충돌 해결하기](https://z9.durun.github.io/posts/git-repository-migration-with-history/)</div>- <div>[Channel Talk 업데이트로 인한 Maven Repository 설정 이슈 해결하기](https://z9.durun.github.io/posts/channel-talk-maven-repository-issue/)</div>- <div>[GA4와 GTM 적용기 - 웹뷰 프로젝트의 사용자 분석](https://z9.durun.github.io/posts/ga4-gtm-integration-for-webview-project/)</div>- <div>[React Native Android namespace 자동화하기](https://z9.durun.github.io/posts/rn-android-namespace/)</div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <div>[Storybook 인터랙션 테스트, 함수형으로 설계하기](https://z9-durun.github.io/posts/storybook-interaction-test-automation/)</div>- <div>[Git Repository 이전하기: 커밋 히스토리 유지와 충돌 해결하기](https://z9-durun.github.io/posts/git-repository-migration-with-history/)</div>- <div>[Channel Talk 업데이트로 인한 Maven Repository 설정 이슈 해결하기](https://z9-durun.github.io/posts/channel-talk-maven-repository-issue/)</div>- <div>[GA4와 GTM 적용기 - 웹뷰 프로젝트의 사용자 분석](https://z9-durun.github.io/posts/ga4-gtm-integration-for-webview-project/)</div>- <div>[React Native Android namespace 자동화하기](https://z9-durun.github.io/posts/rn-android-namespace/)</div><!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more blog posts...](https://z9.durun.github.io)
+➡️ [Read more blog posts...](https://z9-durun.github.io)
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ Last Updated on 03/12/2024 18:49:13 UTC
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/farms/z9.durun"
+      src="https://render.gitanimals.org/farms/z9-durun"
       width="600"
       height="300"
       alt="Git Animals"
