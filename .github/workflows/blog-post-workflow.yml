@@ -18,5 +18,7 @@ jobs:
         with:
           feed_list: "https://z9-durun.github.io/feed.xml"
           max_post_count: 5
+          sort_by: published_at
+          sort_order: desc
           template: |
             - <div>[$title]($url)</div>
