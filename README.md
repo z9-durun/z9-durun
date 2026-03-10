@@ -34,8 +34,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/z9-durun/z9-durun.github.io/pull/2) in [z9-durun/z9-durun.github.io](https://github.com/z9-durun/z9-durun.github.io)
-2. 🎉 Merged PR [#1](https://github.com/z9-durun/z9-durun.github.io/pull/1) in [z9-durun/z9-durun.github.io](https://github.com/z9-durun/z9-durun.github.io)
+1. 🎉 Merged PR [#1](https://github.com/z9-durun/nextjs-fsd-template/pull/1) in [z9-durun/nextjs-fsd-template](https://github.com/z9-durun/nextjs-fsd-template)
+2. 💪 Opened PR [#1](https://github.com/z9-durun/nextjs-fsd-template/pull/1) in [z9-durun/nextjs-fsd-template](https://github.com/z9-durun/nextjs-fsd-template)
 
    <!--END_SECTION:activity-->
       </td>
