@@ -43,7 +43,7 @@
 
 ### 📚 Blog posts
 
-<!-- BLOG-POST-LIST:START -->- <div>[GitHub 블로그 도메인 변경부터 SEO/GEO 전면 개편까지](https://z9-durun.github.io/posts/github-blog-seo-geo-overhaul/)</div>- <div>[Storybook 인터랙션 테스트, 함수형으로 설계하기](https://z9-durun.github.io/posts/storybook-interaction-test-automation/)</div>- <div>[Channel Talk 업데이트로 인한 Maven Repository 설정 이슈 해결하기](https://z9-durun.github.io/posts/channel-talk-maven-repository-issue/)</div>- <div>[Git Repository 이전하기: 커밋 히스토리 유지와 충돌 해결하기](https://z9-durun.github.io/posts/git-repository-migration-with-history/)</div>- <div>[GA4와 GTM 적용기 - 웹뷰 프로젝트의 사용자 분석](https://z9-durun.github.io/posts/ga4-gtm-integration-for-webview-project/)</div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <div>[프리커밋 AI 리뷰가 놓친 것들 — 프로젝트 규칙을 학습하는 PR 리뷰봇 만들기](https://z9-durun.github.io/posts/ai-pr-review-with-project-rules/)</div>- <div>[GitHub 블로그 도메인 변경부터 SEO/GEO 전면 개편까지](https://z9-durun.github.io/posts/github-blog-seo-geo-overhaul/)</div>- <div>[Storybook 인터랙션 테스트, 함수형으로 설계하기](https://z9-durun.github.io/posts/storybook-interaction-test-automation/)</div>- <div>[Channel Talk 업데이트로 인한 Maven Repository 설정 이슈 해결하기](https://z9-durun.github.io/posts/channel-talk-maven-repository-issue/)</div>- <div>[Git Repository 이전하기: 커밋 히스토리 유지와 충돌 해결하기](https://z9-durun.github.io/posts/git-repository-migration-with-history/)</div><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more blog posts...](https://z9-durun.github.io)
 
